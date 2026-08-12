@@ -215,10 +215,7 @@ while (i - delta >= 0) {  // intent: stop once close to zero
     ...
 }
 ```
-
-
 #### Sign Extension (Expanding Bit Width, Signed) Truncation (Reducing Bit Width, Signed)
-
 Converting a signed value from a smaller word size to a larger one while preserving its numeric value by replicate the original sign bit (the leftmost/most-significant bit) into all the new, wider positions.
 
 ![[lec1-1786103268411.webp]]

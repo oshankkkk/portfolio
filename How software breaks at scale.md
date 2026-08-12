@@ -1,5 +1,6 @@
 Saturation, system gets overloaded
 How? 
+
 physical limits 
 - ram, disk, cpu 
 virtual resources
