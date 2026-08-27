@@ -1,21 +1,9 @@
-
-# K.G.R. Oshan
-
+# Ravindu Oshan Kodagoda
 **Software Engineering Intern**
 
-[github/oshankkkk](https://github.com/oshankkkk) · oshankodagoda200667@gmail.com · 077 969 7223 · [oshanswe.com](https://oshanswe.com/) · [linkedin/oshankodagoda](https://linkedin.com/in/oshan-kodagoda-437b21285)
+[github/oshankkkk](https://github.com/oshankkkk) · oshankodagoda200667@gmail.com · [oshanswe.com](https://oshanswe.com/) · [linkedin/oshankodagoda](https://linkedin.com/in/oshan-kodagoda-437b21285)
 
-## Education
-
-**BSc (Hons) Computer Science**  
-University of Westminster
-
-**Foundation Programme**  
-Informatics Institute of Technology (IIT)
-
-**GCE Ordinary Level (O/L)**  
-Vidura College
-
+ +94 77 969 7223
 ## Projects
 
 ### [Virtual Machine Interpreter](https://github.com/oshankkkk/Giggles)
@@ -38,10 +26,20 @@ A real-time simulation inspired by *Physarum polycephalum* (slime mold), using t
 
 Developed a full-stack cloud note-taking application with a Go REST API and React/TypeScript frontend, implementing Markdown editing, user authentication, persistent PostgreSQL storage, and Docker-based deployment with a modular client-server architecture.
 
+## Education
+
+**BSc (Hons) Computer Science**  
+University of Westminster _(via Informatics Institute of Technology)_
+
+**Foundation Programme**  
+Informatics Institute of Technology (IIT)
+
+**GCE Ordinary Level (O/L)**  
+Vidura College
 ## Technical Skills
-- **Languages:** Go, C, TypeScript, Java, Python, Lua
+- **Languages:** Go, C/C++, TypeScript, Java, Python, Lua
 - **Concepts:** Compilers, Memory management, Virtual Machines, Data Structures & Algorithms, Networking
-- **Tools & Technologies:** Linux, GDB, Git, Docker, JSON-RPC
+- **Tools & Technologies:** Linux, GDB, Git, Docker, JSON-RPC, Vim
   
 ## Achievements & Activities
 
